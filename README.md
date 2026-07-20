@@ -19,7 +19,7 @@ and your ffmpeg folder to the exclusions of your antivirus.
 ## Install
 For Windows, you can directly download the executable from the following link:
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/onnowhere/youtube_music_playlist_downloader/releases/latest/download/youtube_music_playlist_downloader.exe)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/ColoradoCrusade/youtube_music_playlist_downloader)
 
 Alternatively, you can clone and install from source with Python 3.
 ```
